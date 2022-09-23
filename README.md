@@ -1,2 +1,2 @@
-Second year Softare Engineering student at Western University  
+Third-year Software Engineering student at Western University  
 Located in Toronto/London Ontario

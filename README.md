@@ -11,6 +11,6 @@ You can view my portfolio page here: https://miruomoo.github.io/miruolin/
 - 🛠️ Developer Tools:  MongoDB, MySQL, Git, GitHub, Visual Studio Code, IntelliJ, Docker, AWS, GCP, PuTTY, Jira,
 Confluence, Unity, Linux
 - 📧 Contact me at: mlin282@uwo.ca
-- 👾 I love talking about video games, music, and films!
+- 👾 I love talking about video games, cars, music, and films!
 
 

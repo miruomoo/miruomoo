@@ -13,6 +13,4 @@ Confluence, Unity, Linux
 - 📧 Contact me at: mlin282@uwo.ca
 - 👾 I love talking about video games, cars, music, and films!
 
-[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/album/60GztqOaIVBN0VCwa7nnKh)
-
 

@@ -1,7 +1,7 @@
 <h3 align="center">Hey there!👋 I'm Miruo</h3>
 <p align="center">a Software Engineering student at Western University</p>
 
-I enjoy front-end development, game development, and building artificial intelligence.
+I enjoy frontend development, game development, and building artificial intelligence.
 
 You can view my portfolio page here: https://miruomoo.github.io/miruolin/
 

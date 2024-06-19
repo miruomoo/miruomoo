@@ -7,8 +7,8 @@ You can view my portfolio page here: https://miruomoo.github.io/miruolin/
 
 
 - 💬 Languages: JavaScript, TypeScript, Python, Java, C++, C#, SQL
-- 💻 Frameworks & Libraries: React, Angular, Node.js, PyTorch, Pandas
-- 🛠️ Developer Tools:  MongoDB, MySQL, Git, GitHub, Visual Studio Code, IntelliJ, Docker, AWS EC2, Unix
+- 💻 Frameworks & Libraries: React, Angular, Node.js, PyTorch, Scikit-learn, Pandas
+- 🛠️ Developer Tools: MSSQL, MongoDB, MySQL, Git, GitHub, Visual Studio Code, IntelliJ, Docker, AWS EC2, Unix
 - 📧 Contact me at: mlin282@uwo.ca
 - 👾 I also love talking about video games, cars, music, and films!
 

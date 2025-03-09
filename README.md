@@ -1,7 +1,7 @@
 <h3 align="center">Hey there!👋 I'm Miruo</h3>
 <p align="center">a Software Engineering student at Western University</p>
 
-I enjoy full stack development and building fun products :)
+I enjoy full-stack development and building fun products :)
 
 You can view my portfolio page here: https://miruomoo.github.io/miruolin/
 

@@ -1,5 +1,5 @@
 <h3 align="center">Hey there!👋 I'm Miruo</h3>
-<p align="center">a Software Engineering student at Western University</p>
+<p align="center">a Software Engineering at Manulife</p>
 
 I enjoy full-stack development and building fun products :)
 

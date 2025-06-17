@@ -6,9 +6,9 @@ I enjoy full-stack development and building fun products :)
 You can view my portfolio page here: https://miruomoo.github.io/miruolin/
 
 
-- 💬 Programming Languages: JavaScript, TypeScript, Python, Java, C++, C#, SQL
-- 💻 Frameworks & Libraries: React, Angular, Spring Boot, Node.js, PyTorch, CVZone, Scikit-learn, Pandas
-- 🛠️ Developer Tools: PostgreSQL, MSSQL, MongoDB, MySQL, Supabase, Git, Docker, AWS, Unix, Unity, Excel
+- 💬 Programming Languages: JavaScript, TypeScript, Python, Java, SQL
+- 💻 Frameworks & Libraries: React, Angular, Spring Boot, Node.js, Next.js
+- 🛠️ Developer Tools: PostgreSQL, MSSQL, MongoDB, MySQL, Git, AWS, Unity, Excel
 - 📧 Contact me at: mlin282@uwo.ca
 - 👾 I also love talking about video games, cars, music, and films!
 

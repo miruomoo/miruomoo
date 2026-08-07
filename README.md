@@ -1,9 +1,5 @@
-# Miruo Lin
+Software Engineer working on full-stack apps
 
-Software Engineer working on full-stack development.
-
-Portfolio: https://miruomoo.github.io/miruolin/
+Check out my <a href="https://miruomoo.github.io/miruolin/" target="_blank">personal page</a>
 
 Talk to me about video games, cars, music, film :)
-
-Contact: mlin282@uwo.ca

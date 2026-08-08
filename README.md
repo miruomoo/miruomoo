@@ -5,7 +5,7 @@
   I enjoy building user-focused products and creating intuitive experiences with software. Thanks for visiting!
 </p>
 <p>
-  Feel free to check out my <a href="https://miruomoo.github.io/miruolin/" target="_blank">personal page</a> and talk to me about video games, music, film, or cars :)
+  Feel free to check out my <a href="https://miruomoo.github.io/miruolin/" target="_blank">personal page</a>. Talk to me about video games, music, film, or cars :)
 </p>
 
 </div>

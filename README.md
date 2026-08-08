@@ -1,6 +1,6 @@
 <div align="center">
 
-<h5>Hi, I'm Miruo, a full-stack software engineer. Thanks for visiting!</h5>
+<h4>Hi, I'm Miruo, a full-stack software engineer. Thanks for visiting!</h4>
 
 <p>
   Check out my <a href="https://miruomoo.github.io/miruolin/" target="_blank">personal page</a>

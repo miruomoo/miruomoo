@@ -1,5 +1,13 @@
-Hi, I'm Miruo, a full-stack software engineer. Thanks for visiting!
+<div align="center">
 
-Check out my <a href="https://miruomoo.github.io/miruolin/" target="_blank">personal page</a>
+<h3>Hi, I'm Miruo, a full-stack software engineer. Thanks for visiting!</h3>
 
-Talk to me about video games, music, film, cars :)
+<p>
+  Check out my <a href="https://miruomoo.github.io/miruolin/" target="_blank">personal page</a>
+</p>
+
+<p>
+  Talk to me about video games, music, film, cars :)
+</p>
+
+</div>
